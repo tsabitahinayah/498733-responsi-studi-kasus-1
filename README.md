@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Tsabitah Inayah]  
+NIU : [498733]  
+Sesi : [B3]  
+Secret String : [ded70e0465f54bed3befdd17c2a77d72cb1fd7f26c381717b25e394ae36155ac20250523023352 ]
 
 ## Checklist Responsi
 
